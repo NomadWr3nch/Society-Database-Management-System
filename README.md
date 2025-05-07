@@ -47,13 +47,18 @@ Database Name: sms
    http://localhost/sms_project/index.php
    ```
 ## 🖼️ Screenshots
+
 ![Screenshot 2025-05-07 231933](https://github.com/user-attachments/assets/7dcc32ae-c52e-4eeb-9b2d-aa85944e631b)
-<img src="Screenshots/apartment.png" alt="Apartment Screenshot" width="600"/>
+![Screenshot 2025-05-07 232326](https://github.com/user-attachments/assets/44cae27f-2015-47d8-95c3-230d3f1a434c)
+![Screenshot 2025-05-07 232340](https://github.com/user-attachments/assets/0bd29f71-38dc-455b-9d42-70d337a7c8a6)
+![Screenshot 2025-05-07 232357](https://github.com/user-attachments/assets/92a9e2a1-b022-42ef-bd2c-9073a9018402)
+![Screenshot 2025-05-07 232425](https://github.com/user-attachments/assets/7b382edf-d30c-4a81-99e1-dd591df989e9)
+![Screenshot 2025-05-07 232445](https://github.com/user-attachments/assets/5f821e76-c9b6-4d22-99f1-76a57acadefa)
 
 ## ✨ Acknowledgments
+
 - Bootstrap: UI Framework
 - Animate.css: Smooth animations
-
 
 ## 🙋‍♂️ Authors
 - Akshaj S [@akshajsun](https://github.com/akshajsun)
