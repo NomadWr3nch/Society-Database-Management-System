@@ -47,12 +47,13 @@ Database Name: sms
    http://localhost/sms_project/index.php
    ```
 ## 🖼️ Screenshots
-<img src="Screenshots/homepage.png" alt="Homepage Screenshot" width="600"/>
+![Screenshot 2025-05-07 231933](https://github.com/user-attachments/assets/7dcc32ae-c52e-4eeb-9b2d-aa85944e631b)
 <img src="Screenshots/apartment.png" alt="Apartment Screenshot" width="600"/>
 
 ## ✨ Acknowledgments
 - Bootstrap: UI Framework
 - Animate.css: Smooth animations
+
 
 ## 🙋‍♂️ Authors
 - Akshaj S [@akshajsun](https://github.com/akshajsun)
