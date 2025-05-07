@@ -60,6 +60,10 @@ Database Name: sms
 - Bootstrap: UI Framework
 - Animate.css: Smooth animations
 
+## 📄 License
+MIT License 
+
 ## 🙋‍♂️ Authors
-- Akshaj S [@akshajsun](https://github.com/akshajsun)
 - Gautam Girish [@NomadWr3nch](https://github.com/NomadWr3nch)
+- Akshaj S [@akshajsun](https://github.com/akshajsun)
+
