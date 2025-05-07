@@ -43,9 +43,9 @@ Database Name: sms
 - Select sms DB → Import → Choose sql/schema.sql
 
 6. Visit the system:
-   ```bash
-   http://localhost/sms_project/index.php
-   ```
+```bash
+http://localhost/sms_project/index.php
+```
 ## 🖼️ Screenshots
 
 ![Screenshot 2025-05-07 231933](https://github.com/user-attachments/assets/7dcc32ae-c52e-4eeb-9b2d-aa85944e631b)
